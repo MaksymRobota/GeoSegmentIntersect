@@ -19,21 +19,21 @@ The test project must include (Implement a web api that would):
 **In progress**
 
 - [ ] Define API Endpoints /api/search (POST method).
-    {
+    `{
       "segment": [
         {"x": 10.0, "y": 20.0},
         {"x": 30.0, "y": 40.0}
       ]
-    }
+    }`
 - [ ] Design a database schema to store rectangles efficiently.
   Consider using a spatial database if available (e.g., PostGIS for PostgreSQL).
-    INSERT INTO rectangles (geom) VALUES
+    `INSERT INTO rectangles (geom) VALUES
       ('POLYGON((0 0, 0 10, 10 10, 10 0, 0 0))'),
-      ('POLYGON((5 5, 5 15, 15 15, 15 5, 5 5))');
+      ('POLYGON((5 5, 5 15, 15 15, 15 5, 5 5))');`
 
   Indexing: Ensure appropriate indexing for efficient querying.
-    SELECT * FROM rectangles
-    WHERE geom && 'POLYGON((2 2, 2 8, 8 8, 8 2, 2 2))'::geometry;
+    `SELECT * FROM rectangles
+    WHERE geom && 'POLYGON((2 2, 2 8, 8 8, 8 2, 2 2))'::geometry;`
 - [ ] Implement the endpoint to accept two pairs of doubles representing a segment.
     *geometric analysis algorithms, such as the Polygonal Intersection algorithm
   Validate input data to ensure it's in the correct format.
