@@ -55,13 +55,13 @@ The test project must include (Implement a web api that would):
 - Run `python3 manage.py runserver` to start in development mode
 
 Postgres:
-sudo apt-get install --reinstall libpq-dev
-pip3 install psycopg2
+`sudo apt-get install --reinstall libpq-dev`
+`pip3 install psycopg2`
 
     DB console:
-        sudo -u postgres psql
-        create user test_admin with password 'admin1234';
-        create database log_app owner test_admin;
+        `sudo -u postgres psql`
+        `create user test_admin with password 'admin1234';`
+        `create database geo_app owner test_admin;`
 
     python3 manage.py migrate
 
