@@ -4,7 +4,7 @@
 
 
 
-![Image alt](https://github.com/MaksymRobota/GeoSegmentIntersect/blob/main/intro.webp)
+![Image alt](https://github.com/MaksymRobota/GeoSegmentIntersect/blob/main/assets/intro.webp)
 ## Features
 
 
@@ -65,6 +65,25 @@ Ex:
 
 ## Used resources:
     https://en.wikipedia.org/wiki/Intersection_(geometry)#Two_line_segments
+
+
+## Test cases
+![Image alt](https://github.com/MaksymRobota/GeoSegmentIntersect/blob/main/assets/myplot.png)
+
+![Image alt](https://github.com/MaksymRobota/GeoSegmentIntersect/blob/main/assets/myplot2.png)
+
+![Image alt](https://github.com/MaksymRobota/GeoSegmentIntersect/blob/main/assets/myplot3.png)
+
+![Image alt](https://github.com/MaksymRobota/GeoSegmentIntersect/blob/main/assets/myplot4.png)
+
+![Image alt](https://github.com/MaksymRobota/GeoSegmentIntersect/blob/main/assets/myplot5.png)
+
+![Image alt](https://github.com/MaksymRobota/GeoSegmentIntersect/blob/main/assets/myplot6.png)
+
+![Image alt](https://github.com/MaksymRobota/GeoSegmentIntersect/blob/main/assets/myplot7.png)
+
+![Image alt](https://github.com/MaksymRobota/GeoSegmentIntersect/blob/main/assets/myplot8.png)
+
 
 ## License
 
