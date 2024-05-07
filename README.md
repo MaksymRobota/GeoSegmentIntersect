@@ -85,6 +85,17 @@ Ex:
 ![Image alt](https://github.com/MaksymRobota/GeoSegmentIntersect/blob/main/assets/myplot8.png)
 
 
+## Api
+
+![Image alt](https://github.com/MaksymRobota/GeoSegmentIntersect/blob/main/assets/1.png)
+
+![Image alt](https://github.com/MaksymRobota/GeoSegmentIntersect/blob/main/assets/2.png)
+
+![Image alt](https://github.com/MaksymRobota/GeoSegmentIntersect/blob/main/assets/3.png)
+
+![Image alt](https://github.com/MaksymRobota/GeoSegmentIntersect/blob/main/assets/4.png)
+
+
 ## License
 
 Made with ❤️
