@@ -1,1 +1,4 @@
 Django==4.2.11
+psycopg2-binary==2.9.9
+unittest-parametrize==1.4.0
+djangorestframework==3.15.1

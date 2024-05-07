@@ -58,7 +58,7 @@ coverage.xml
 
 # Django stuff:
 *.log
-GeoSegmentIntersect/local_settings.py
+conf/local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
